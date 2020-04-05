@@ -1,11 +1,22 @@
-# The Color Game
+# Color Picker Game
 
-Color game where user guesses a color based on a random RGB
+A color picking game created with HTML, CSS, and Javascript.
 
-## Link to Live Site
+## Objective
+
+Guess the color shown based on the RGBA given.
+
+## Screenshot
+
+![photo-of-game](https://github.com/codewithsrobins1/lightsout-game/blob/master/readmeImg.PNG?raw=true)
 
 ### Built With
 
 * HTML
 * CSS
 * Javascript
+
+### Credit
+
+* Project from Colt Steele's 'The Web Developer Bootcamp' 
+* https://www.udemy.com/share/101W92BEQadlpVQHg=/
